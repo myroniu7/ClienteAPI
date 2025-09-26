@@ -15,3 +15,4 @@ D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Data\obj\Debug\net9.0\re
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Data\obj\Debug\net9.0\ClienteAPI.Data.pdb
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Data\obj\Debug\net9.0\ClienteAPI.Data.genruntimeconfig.cache
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Data\obj\Debug\net9.0\ref\ClienteAPI.Data.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Data\obj\Debug\net9.0\ClienteAPI.Data.sourcelink.json

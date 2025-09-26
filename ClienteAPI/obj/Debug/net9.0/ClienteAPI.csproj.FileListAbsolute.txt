@@ -169,3 +169,4 @@ D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI\obj\Debug\net9.0\refint\
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI\obj\Debug\net9.0\ClienteAPI.pdb
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI\obj\Debug\net9.0\ClienteAPI.genruntimeconfig.cache
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI\obj\Debug\net9.0\ref\ClienteAPI.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI\obj\Debug\net9.0\ClienteAPI.sourcelink.json

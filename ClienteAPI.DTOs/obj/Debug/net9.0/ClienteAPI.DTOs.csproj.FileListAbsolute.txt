@@ -9,3 +9,4 @@ D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\Cl
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\refint\ClienteAPI.DTOs.dll
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.pdb
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ref\ClienteAPI.DTOs.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.sourcelink.json

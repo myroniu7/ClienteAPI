@@ -15,3 +15,4 @@ D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\refint\ClienteAPI.Services.dll
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.pdb
 D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ref\ClienteAPI.Services.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.sourcelink.json
