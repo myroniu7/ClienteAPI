@@ -1,0 +1,17 @@
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.csproj.AssemblyReference.cache
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.AssemblyInfoInputs.cache
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.AssemblyInfo.cs
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.csproj.CoreCompileInputs.cache
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.Services.deps.json
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.Services.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.Services.pdb
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.Data.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.DTOs.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.Data.pdb
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\bin\Debug\net9.0\ClienteAPI.DTOs.pdb
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteA.FE6CAF55.Up2Date
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\refint\ClienteAPI.Services.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ClienteAPI.Services.pdb
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.Services\obj\Debug\net9.0\ref\ClienteAPI.Services.dll

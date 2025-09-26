@@ -1,0 +1,11 @@
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\bin\Debug\net9.0\ClienteAPI.DTOs.deps.json
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\bin\Debug\net9.0\ClienteAPI.DTOs.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\bin\Debug\net9.0\ClienteAPI.DTOs.pdb
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.AssemblyInfoInputs.cache
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.AssemblyInfo.cs
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.csproj.CoreCompileInputs.cache
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\refint\ClienteAPI.DTOs.dll
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ClienteAPI.DTOs.pdb
+D:\users\myronius\dev\talycap\app\ClienteAPI\ClienteAPI.DTOs\obj\Debug\net9.0\ref\ClienteAPI.DTOs.dll
